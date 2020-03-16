@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">MultiImagePicker</string>
+    <string name="action_settings">Clear</string>
+
+    <string name="ef_selected">Selected %d</string>
+    <string name="ef_selected_with_limit">Selected %1$d/%2$d</string>
+
+</resources>
